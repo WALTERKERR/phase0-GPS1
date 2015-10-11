@@ -3,7 +3,7 @@
 
 *this is our itallic*
 
-``` Joshua is the best ``` 
+``` Walter is the best ``` 
 
 [link](https://help.github.com/articles/markdown-basics/) 
 
